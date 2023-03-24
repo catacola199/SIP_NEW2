@@ -30,53 +30,27 @@
       <![endif]-->
 
      <!-- tp-header-area-start -->
-     <header class="d-none d-lg-block">
-      <div id="header-sticky" class="tp-header-area-two tp-header-bg header-transparent header-transparent-two">
+   <header class="d-none d-lg-block">
+      <div id="header-sticky" class="tp-header-area header-transparent pl-165 pr-165 pt-35">
          <div class="container-fluid">
             <div class="row align-items-center">
-               <div class="col-xxl-3 col-xl-3 col-lg-3">
-                  <div class="tp-logo text-start">
-                     <a href="index.html"><img src="assets/img/logo/logo-blue.png" alt=""></a>
+               <div class="col-xl-3 col-lg-3">
+                  <div class="tp-logo">
+                     <a href="index.html"><img src="assets/img/logo/logo2.png" alt="" class="img-fluid"></a>
                   </div>
                </div>
-               <div class="col-xxl-5 col-xl-6 col-lg-6">
-                  <div class="tp-main-menu tp-menu-black tp-bs-menu tp-bp-menu text-center">
+               <div class="col-xl-7 col-lg-7">
+                  <div class="tp-main-menu">
                      <nav id="mobile-menu">
                         <ul>
-                           <li class="has-dropdown"><a href="index.html">Home</a> 
+                           <li><a href="#">Home</a></li>
+                           <li><a href="about.html">About</a></li>
+                           <li><a href="product.html">Product</a></li>
+                           <li class="has-dropdown has-mega-menu"><a href="#">Pages</a>
                               <ul class="submenu text-start">
-                                 <li><a href="index.html">Creative Agency</a></li>
-                                 <li><a href="index-2.html">Personal Portfolio</a></li>
-                                 <li><a href="index-3.html">Startup Business</a></li>
-                                 <li><a href="index-4.html">Digital Agency</a></li>
-                                 <li><a href="index-5.html">Business Advisor</a></li>
-                                 <li><a href="index-6.html">IT Service Agency</a></li>
-                                 <li><a href="index-7.html">Corporate Agency</a></li>
-                                 <li><a href="index-8.html">Fashion Blog 01</a></li>
-                                 <li><a href="index-9.html">Fashion Blog 02</a></li>
-                              </ul>
-                           </li>
-                           <li class="has-dropdown "><a href="portfolio.html">Portfolio</a> 
-                              <ul class="submenu text-start">
-                                 <li><a href="portfolio.html">Portfolio Full Width</a></li>
-                                 <li><a href="portfolio-2.html">Portfolio Filter 01</a></li>
-                                 <li><a href="portfolio-3.html">Portfolio Filter 02</a></li>
-                                 <li><a href="portfolio-mesonary.html">Portfolio Masonry</a></li>
-                                 <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                              </ul>
-                           </li>
-                           <li class="has-dropdown has-mega-menu "><a href="#">Pages</a>
-                              <ul class="submenu text-start">
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="about-me.html">About Me</a></li>
-                                 <li><a href="job.html">Job</a></li>
-                                 <li><a href="job-details.html">Job Details</a></li>
                                  <li><a href="product.html">Product</a></li>
                                  <li><a href="product-details.html">Product Details</a></li>
-                                 <li><a href="service-1.html">Service 01</a></li>
                                  <li><a href="service-2.html">Service 02</a></li>
-                                 <li><a href="service-3.html">Service 03</a></li>
-                                 <li><a href="service-4.html">Service 04</a></li>
                                  <li><a href="service-details.html">Service Details</a></li>
                                  <li><a href="testimonial.html">Testimonial</a></li>
                                  <li><a href="price.html">Price</a></li>
@@ -100,27 +74,15 @@
                      </nav>
                   </div>
                </div>
-               <div class="col-xxl-4 col-xl-3 col-lg-3">
-                  <div class="tp-header-left d-flex align-items-center justify-content-end ">
-                     <ul class="d-none d-xxl-block">
-                        <li><a class="#" href="login.html"><i class="far fa-user fa-user"></i> Login</a></li>
-                        <li><a class="#" href="#">EN<i class="fal fa-arrow-down arrow-down"></i></a>
-                           <ul>
-                              <li><a href="#">English</a></li>
-                              <li><a href="#">Arabic</a></li>
-                              <li><a href="#">Spanish</a></li>
-                           </ul>
-                        </li>
-                     </ul>
-                     <div class="tp-header-yellow-button">
-                        <a class="tp-btn-white" href="about.html">How it Works</a>
-                     </div>
+               <div class="col-xl-2 col-lg-2">
+                  <div class="tp-menu-bar text-end">
+                     <button><i class="fal fa-bars"></i></button>
                   </div>
                </div>
             </div>
          </div>
       </div>
-     </header>
+   </header>
      <!-- tp-header-area-end -->
 
    <div id="header-sticky-mobile" class="tp-md-header-area d-md-block d-lg-none pt-30 pb-30">

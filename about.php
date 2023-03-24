@@ -37,28 +37,21 @@
             <div class="row align-items-center">
                <div class="col-xxl-3 col-xl-3 col-lg-3">
                   <div class="tp-logo text-start">
-                     <a href="index.html"><img src="assets/img/logo/logo-blue.png" alt=""></a>
+                     <a href="index.html"><img src="assets/img/logo/logo2.png" alt=""></a>
                   </div>
                </div>
                <div class="col-xxl-5 col-xl-6 col-lg-6">
                   <div class="tp-main-menu tp-menu-black tp-bs-menu tp-bp-menu text-center">
                      <nav id="mobile-menu">
                         <ul>
-                           <li><a href="index.html">Home</a></li>
-                           <li><a href="#">About</a></li>
+                           <li><a href="#">Home</a></li>
+                           <li><a href="about.html">About</a></li>
                            <li><a href="product.html">Product</a></li>
-                           <li class="has-dropdown has-mega-menu "><a href="#">Pages</a>
+                           <li class="has-dropdown has-mega-menu"><a href="#">Pages</a>
                               <ul class="submenu text-start">
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="about-me.html">About Me</a></li>
-                                 <li><a href="job.html">Job</a></li>
-                                 <li><a href="job-details.html">Job Details</a></li>
                                  <li><a href="product.html">Product</a></li>
                                  <li><a href="product-details.html">Product Details</a></li>
-                                 <li><a href="service-1.html">Service 01</a></li>
                                  <li><a href="service-2.html">Service 02</a></li>
-                                 <li><a href="service-3.html">Service 03</a></li>
-                                 <li><a href="service-4.html">Service 04</a></li>
                                  <li><a href="service-details.html">Service Details</a></li>
                                  <li><a href="testimonial.html">Testimonial</a></li>
                                  <li><a href="price.html">Price</a></li>
@@ -66,15 +59,6 @@
                                  <li><a href="login.html">Login</a></li>
                                  <li><a href="registration.html">Register</a></li>
                                  <li><a href="404.html">404</a></li>
-                              </ul>
-                           </li>
-                           <li class="has-dropdown "><a href="blog.html">Blog</a>
-                              <ul class="submenu text-start">
-                                 <li><a href="blog.html">Blog Sidebar</a></li>
-                                 <li><a href="blog-details.html">Blog Details</a></li>
-                                 <li><a href="blog-grid-1.html">Post Style 01</a></li>
-                                 <li><a href="blog-grid-2.html">Post Style 02</a></li>
-                                 <li><a href="blog-grid-3.html">Post Style 03</a></li>
                               </ul>
                            </li>
                            <li><a href="contact.html">Contact</a></li>
@@ -374,190 +358,6 @@
       </div>
 
       <!-- tp-feature-area-end -->
-
-      <!--team-area-start -->
-      <div class="ac-team-area pt-130 pb-100">
-         <div class="container">
-            <div class="row">
-               <div class="col-12">
-                  <div class="ac-team-title-section text-center mb-60">
-                     <h3 class="ac-team-title">People are the key to success</h3>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".3s" data-wow-delay=".5s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-1.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Alextina Derexine</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">UI/UX Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".5s" data-wow-delay=".7s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-5.1.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Darrell Steward</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">Web Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".7s" data-wow-delay=".9s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-5.2.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Floyd Miles</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">Fashion Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".8s" data-wow-delay="1s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-7.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Albert Flores</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">App Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-2.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Dianne Russell</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">Graphic Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration="1s" data-wow-delay="1.2s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-3.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Jerome Bell</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">React Developer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".1.1s" data-wow-delay="1.3s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-4.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Robert Fox</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">Mernstack Developer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 wow tpfadeUp" data-wow-duration=".1.2s" data-wow-delay="1.4s">
-                  <div class="tpteam mb-30">
-                     <div class="tpteam__shape-1">
-                        <img src="assets/img/team/team-shape-5.1.png" alt="">
-                     </div>
-                     <div class="tpteam__shape-2">
-                        <img src="assets/img/team/team-shape-5.2.png" alt="">
-                     </div>
-                     <div class="tpteam__thumb">
-                        <img class="w-100" src="assets/img/team/team-5.jpg" alt="">
-                     </div>
-                     <div class="tpteam__content">
-                        <h4 class="tp-team-sm-title"><a href="portfolio-details.html">Farhan Firoz</a></h4>
-                        <h5 class="tp-team-sm-subtitle"><a href="#">Web Designer</a></h5>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- team-area-end -->
 
       <!-- news-area-start -->
       <div class="tp-news-letter-area tp-news-letter-bg pt-65 pb-60" data-background="assets/img/news/news-bg.jpg">
