@@ -30,14 +30,14 @@
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
       <![endif]-->
 
-     <!-- tp-header-area-start -->
-     <header class="d-none d-lg-block">
+   <!-- tp-header-area-start -->
+   <header class="d-none d-lg-block">
       <div id="header-sticky" class="tp-header-area-two tp-header-bg header-transparent header-transparent-two">
          <div class="container-fluid">
             <div class="row align-items-center">
                <div class="col-xxl-3 col-xl-3 col-lg-3">
                   <div class="tp-logo text-start">
-                     <a href="index.html"><img src="assets/img/logo/logo2.png" alt=""></a>
+                     <a href="index.php"><img src="assets/img/logo/logo2.png" alt=""></a>
                   </div>
                </div>
                <div class="col-xxl-5 col-xl-6 col-lg-6">
@@ -45,28 +45,14 @@
                      <nav id="mobile-menu">
                         <ul>
                            <li><a href="#">Home</a></li>
-                           <li><a href="about.html">About</a></li>
-                           <li><a href="product.html">Product</a></li>
-                           <li class="has-dropdown has-mega-menu"><a href="#">Pages</a>
-                              <ul class="submenu text-start">
-                                 <li><a href="product.html">Product</a></li>
-                                 <li><a href="product-details.html">Product Details</a></li>
-                                 <li><a href="service-2.html">Service 02</a></li>
-                                 <li><a href="service-details.html">Service Details</a></li>
-                                 <li><a href="testimonial.html">Testimonial</a></li>
-                                 <li><a href="price.html">Price</a></li>
-                                 <li><a href="faq.html">Faq</a></li>
-                                 <li><a href="login.html">Login</a></li>
-                                 <li><a href="registration.html">Register</a></li>
-                                 <li><a href="404.html">404</a></li>
-                              </ul>
-                           </li>
-                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="about.php">About</a></li>
+                           <li><a href="product.php">Product</a></li>
+                           <li><a href="contact.php">Contact</a></li>
                         </ul>
                      </nav>
                   </div>
                </div>
-               
+
             </div>
          </div>
       </div>
@@ -78,7 +64,7 @@
          <div class="row align-items-center">
             <div class="col-md-6 col-6">
                <div class="tp-logo">
-                  <a href="index.html"><img src="assets/img/logo/logo-blue.png" alt=""></a>
+                  <a href="index.php"><img src="assets/img/logo/logo-blue.png" alt=""></a>
                </div>
             </div>
             <div class="col-md-6 col-6">
@@ -96,7 +82,7 @@
    <div class="tp-offcanvas-area">
       <div class="tpoffcanvas">
          <div class="tpoffcanvas__logo">
-            <a href="index.html">
+            <a href="index.php">
                <img src="assets/img/logo/logo-white.png" alt="">
             </a>
          </div>
@@ -127,14 +113,14 @@
          </div>
          <div class="tpoffcanvas__instagram d-none d-sm-block">
             <p>Check Instagram POst</p>
-           <div class="tp-insta">
-            <div class="row">
-               <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-1.jpg" alt=""></a></div>
-               <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-2.jpg" alt=""></a></div>
-               <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-4.jpg" alt=""></a></div>
-               <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-4.jpg" alt=""></a></div>
+            <div class="tp-insta">
+               <div class="row">
+                  <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-1.jpg" alt=""></a></div>
+                  <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-2.jpg" alt=""></a></div>
+                  <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-4.jpg" alt=""></a></div>
+                  <div class="col-3 col-sm-3"><a href="#"><img src="assets/img/offcanvas/insta-4.jpg" alt=""></a></div>
+               </div>
             </div>
-           </div>
          </div>
       </div>
    </div>
@@ -144,8 +130,7 @@
    <main>
 
       <!-- breadcrumb area start -->
-      <section class="breadcrumb__area  breadcrumb__pt-310 include-bg p-relative"
-         data-background="assets/img/breadcrum/ab-1.1.jpg">
+      <section class="breadcrumb__area  breadcrumb__pt-310 include-bg p-relative" data-background="assets/img/breadcrum/ab-1.1.jpg">
          <div class="ac-about-shape-img z-index-1">
             <img src="assets/img/breadcrum/ab-shape-1.1.jpg" alt="">
          </div>
@@ -154,7 +139,7 @@
                <div class="col-xxl-12">
                   <div class="breadcrumb__content p-relative z-index-1">
                      <h3 class="breadcrumb__title">Collax Product</h3>
-                      <a href="contact.html" class="tp-btn-white-border">Lets work together <i class="far fa-arrow-right"></i></a>
+                     <a href="contact.php" class="tp-btn-white-border">Lets work together <i class="far fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -176,7 +161,7 @@
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">Jeff Gothelf learn UX</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">Jeff Gothelf learn UX</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -198,7 +183,7 @@
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">Pride and Prejudice</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">Pride and Prejudice</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -220,7 +205,7 @@
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">Hard Luck learn UX</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">Hard Luck learn UX</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -237,12 +222,12 @@
                      <div class="tpproduct__img">
                         <img class="w-100" src="assets/img/product/product-4.jpg" alt="">
                         <div class="tp-product-icon">
-                           <a href="product-details.html"><i class="fal fa-shopping-basket"></i></a>
-                           <a href="product-details.html"><i class="fal fa-heart"></i></a>
+                           <a href="product-details.php"><i class="fal fa-shopping-basket"></i></a>
+                           <a href="product-details.php"><i class="fal fa-heart"></i></a>
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">The Little Prince</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">The Little Prince</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -259,12 +244,12 @@
                      <div class="tpproduct__img">
                         <img class="w-100" src="assets/img/product/product-5.jpg" alt="">
                         <div class="tp-product-icon">
-                           <a href="product-details.html"><i class="fal fa-shopping-basket"></i></a>
-                           <a href="product-details.html"><i class="fal fa-heart"></i></a>
+                           <a href="product-details.php"><i class="fal fa-shopping-basket"></i></a>
+                           <a href="product-details.php"><i class="fal fa-heart"></i></a>
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">The Selfish Giant UX</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">The Selfish Giant UX</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -281,12 +266,12 @@
                      <div class="tpproduct__img">
                         <img class="w-100" src="assets/img/product/product-6.jpg" alt="">
                         <div class="tp-product-icon">
-                           <a href="product-details.html"><i class="fal fa-shopping-basket"></i></a>
-                           <a href="product-details.html"><i class="fal fa-heart"></i></a>
+                           <a href="product-details.php"><i class="fal fa-shopping-basket"></i></a>
+                           <a href="product-details.php"><i class="fal fa-heart"></i></a>
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">Little Women UX</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">Little Women UX</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -303,12 +288,12 @@
                      <div class="tpproduct__img">
                         <img class="w-100" src="assets/img/product/product-7.jpg" alt="">
                         <div class="tp-product-icon">
-                           <a href="product-details.html"><i class="fal fa-shopping-basket"></i></a>
-                           <a href="product-details.html"><i class="fal fa-heart"></i></a>
+                           <a href="product-details.php"><i class="fal fa-shopping-basket"></i></a>
+                           <a href="product-details.php"><i class="fal fa-heart"></i></a>
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">JFar From the Madding Crowd</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">JFar From the Madding Crowd</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -325,12 +310,12 @@
                      <div class="tpproduct__img">
                         <img class="w-100" src="assets/img/product/product-8.jpg" alt="">
                         <div class="tp-product-icon">
-                           <a href="product-details.html"><i class="fal fa-shopping-basket"></i></a>
-                           <a href="product-details.html"><i class="fal fa-heart"></i></a>
+                           <a href="product-details.php"><i class="fal fa-shopping-basket"></i></a>
+                           <a href="product-details.php"><i class="fal fa-heart"></i></a>
                         </div>
                      </div>
                      <div class="tpproduct__meta">
-                        <h4 class="tp-product-title"><a href="product-details.html">A Horseman in the Sky</a></h4>
+                        <h4 class="tp-product-title"><a href="product-details.php">A Horseman in the Sky</a></h4>
                         <span>$46.00</span>
                         <div class="product-rating">
                            <i class="fas fa-star"></i>
@@ -350,21 +335,21 @@
                         <nav>
                            <ul>
                               <li>
-                                 <a href="blog.html">
+                                 <a href="blog.php">
                                     <i class="far fa-angle-left"></i>
                                  </a>
                               </li>
                               <li>
-                                 <a href="blog.html">1</a>
+                                 <a href="blog.php">1</a>
                               </li>
                               <li>
                                  <span class="current">2</span>
                               </li>
                               <li>
-                                 <a href="blog.html">3</a>
+                                 <a href="blog.php">3</a>
                               </li>
                               <li>
-                                 <a href="blog.html">
+                                 <a href="blog.php">
                                     <i class="far fa-angle-right"></i>
                                  </a>
                               </li>
@@ -390,7 +375,7 @@
                <div class="col-xl-3 col-lg-4 col-md-6">
                   <div class="tp-footer-widget">
                      <div class="tp-footer-widget__logo mb-30">
-                        <a href="index.html"><img src="assets/img/logo/logo-white.png" alt=""></a>
+                        <a href="index.php"><img src="assets/img/logo/logo_kecil.png" alt=""></a>
                      </div>
                      <div class="tp-footer-widget__text mb-30">
                         <p>A new way to make the payments easy,
@@ -430,7 +415,7 @@
                            <li><a href="#">Help Center</a></li>
                            <li><a href="#">Partners</a></li>
                            <li><a href="#">Suggestions</a></li>
-                           <li><a href="blog.html">Blog</a></li>
+                           <li><a href="blog.php">Blog</a></li>
                            <li><a href="#">Newsletters</a></li>
                         </ul>
                      </div>
@@ -461,14 +446,11 @@
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-12">
                         <div class="tp-copyright-left text-lg-start text-start text-md-center">
-                           <p> © Copyright ©2022 Collax. All Rights Reserved Copyright</p>
+                           <p> © Copyright ©2022 Sri Intan Perkasa. All Rights Reserved Copyright</p>
                         </div>
                      </div>
                      <div class="col-xl-6 col-lg-6 col-12">
                         <div class="tp-copyright-right text-start text-md-center text-lg-end">
-                           <a href="#">Terms and conditions</a>
-                           <a href="#"> Privacy policy</a>
-                           <a href="#">Login / Signup</a>
                         </div>
                      </div>
                   </div>
@@ -483,7 +465,7 @@
 
    <button class="scroll-top scroll-to-target" data-target="html">
       <i class="far fa-angle-double-up"></i>
-  </button>
+   </button>
 
    <!-- JS here -->
    <script src="assets/js/jquery.js"></script>

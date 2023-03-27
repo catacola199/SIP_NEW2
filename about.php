@@ -378,7 +378,7 @@
                <div class="col-xl-3 col-lg-4 col-md-6">
                   <div class="tp-footer-widget">
                      <div class="tp-footer-widget__logo mb-30">
-                        <a href="index.html"><img src="assets/img/logo/logo-white.png" alt=""></a>
+                        <a href="index.html"><img src="assets/img/logo/logo_kecil.png" alt=""></a>
                      </div>
                      <div class="tp-footer-widget__text mb-30">
                         <p>A new way to make the payments easy,
@@ -449,14 +449,11 @@
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-12">
                         <div class="tp-copyright-left text-lg-start text-start text-md-center">
-                           <p> © Copyright ©2022 Collax. All Rights Reserved Copyright</p>
+                           <p> © Copyright ©2022 Sri Intan Perkasa. All Rights Reserved Copyright</p>
                         </div>
                      </div>
                      <div class="col-xl-6 col-lg-6 col-12">
                         <div class="tp-copyright-right text-start text-md-center text-lg-end">
-                           <a href="#">Terms and conditions</a>
-                           <a href="#"> Privacy policy</a>
-                           <a href="#">Login / Signup</a>
                         </div>
                      </div>
                   </div>
