@@ -942,37 +942,13 @@
                </div>
             </div>
          </div>
-         <div class="tp-copyright-area pb-90 wow tpfadeUp" data-wow-duration=".5s" data-wow-delay=".7s">
+         <div class="tp-copyright-area pb-20 wow tpfadeUp" data-wow-duration=".5s" data-wow-delay=".7s">
             <div class="container">
                <div class="tp-copyright-box align-items-center">
                   <div class="row align-items-center">
                      <div class="col-xl-5 col-lg-5 col-md-5 col-12">
                         <div class="tp-copyright-text z-index-1">
                            <p class="m-0">© 2023 Sri Intan Perkasa , All Right Reserved.</p>
-                        </div>
-                     </div>
-                     <div class="col-xl-7 col-lg-7 col-md-7 col-12">
-                        <div class="tp-copyright-right text-md-end text-start">
-                           <a href="#">Support</a>
-                           <a href="#">Privacy policy</a>
-                           <a href="#">Tterms and conditions</a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tp-copyright-logo-box">
-                  <div class="row align-items-center">
-                     <div class="col-xl-4 col-lg-4 col-md-4 col-12">
-                        <div class="tp-copyright-logo mt-35">
-                           <a href="index.php"><img src="assets/img/copyright/copyright-logo.png" alt=""></a>
-                        </div>
-                     </div>
-                     <div class="col-xl-8 col-lg-8 col-md-8 col-12">
-                        <div class="tp-copyright-social text-md-end mt-25">
-                           <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                           <a href="#"><i class="fab fa-facebook-f"></i></a>
-                           <a href="#"><i class="fab fa-instagram"></i></a>
-                           <a href="#"><i class="fab fa-youtube"></i></a>
                         </div>
                      </div>
                   </div>

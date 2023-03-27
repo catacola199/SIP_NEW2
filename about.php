@@ -44,24 +44,10 @@
                   <div class="tp-main-menu tp-menu-black tp-bs-menu tp-bp-menu text-center">
                      <nav id="mobile-menu">
                         <ul>
-                           <li><a href="#">Home</a></li>
-                           <li><a href="about.html">About</a></li>
-                           <li><a href="product.html">Product</a></li>
-                           <li class="has-dropdown has-mega-menu"><a href="#">Pages</a>
-                              <ul class="submenu text-start">
-                                 <li><a href="product.html">Product</a></li>
-                                 <li><a href="product-details.html">Product Details</a></li>
-                                 <li><a href="service-2.html">Service 02</a></li>
-                                 <li><a href="service-details.html">Service Details</a></li>
-                                 <li><a href="testimonial.html">Testimonial</a></li>
-                                 <li><a href="price.html">Price</a></li>
-                                 <li><a href="faq.html">Faq</a></li>
-                                 <li><a href="login.html">Login</a></li>
-                                 <li><a href="registration.html">Register</a></li>
-                                 <li><a href="404.html">404</a></li>
-                              </ul>
-                           </li>
-                           <li><a href="contact.html">Contact</a></li>
+                           <li><a href="index.php">Home</a></li>
+                           <li><a href="about.php">About</a></li>
+                           <li><a href="product.php">Product</a></li>
+                           <li><a href="contact.php">Contact</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -70,13 +56,6 @@
                   <div class="tp-header-left d-flex align-items-center justify-content-end ">
                      <ul class="d-none d-xxl-block">
                         <li><a class="#" href="login.html"><i class="far fa-user fa-user"></i> Login</a></li>
-                        <li><a class="#" href="#">EN<i class="fal fa-arrow-down arrow-down"></i></a>
-                           <ul>
-                              <li><a href="#">English</a></li>
-                              <li><a href="#">Arabic</a></li>
-                              <li><a href="#">Spanish</a></li>
-                           </ul>
-                        </li>
                      </ul>
                      <div class="tp-header-yellow-button">
                         <a class="tp-btn-white" href="about.html">How it Works</a>
@@ -160,15 +139,15 @@
 
       <!-- breadcrumb area start -->
       <section class="breadcrumb__area  breadcrumb__pt-310 include-bg p-relative"
-         data-background="assets/img/breadcrum/ab-1.1.jpg">
+         data-background="assets/img/breadcrum/test.jpg">
          <div class="ac-about-shape-img">
-            <img src="assets/img/breadcrum/ab-shape-1.1.jpg" alt="">
+            <img src="assets/img/breadcrum/icon.png" alt="">
          </div>
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">
                   <div class="breadcrumb__content p-relative z-index-1">
-                     <h3 class="breadcrumb__title">About Collax</h3>
+                     <h3 class="breadcrumb__title">About SIP</h3>
                       <a href="contact.html" class="tp-btn-white-border">Lets work together <i class="far fa-arrow-right"></i></a>
                   </div>
                </div>
