@@ -10,19 +10,9 @@
 
    <!-- Place favicon.ico in the root directory -->
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/LOGO2.png">
-
+   <?php include 'component/_head.php'; ?>
    <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/animate.css">
-   <link rel="stylesheet" href="assets/css/custom-animation.css">
-   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
-   <link rel="stylesheet" href="assets/css/slick.css">
-   <link rel="stylesheet" href="assets/css/flaticon.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.css">
-   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/spacing.css">
-   <link rel="stylesheet" href="assets/css/style.css">
+
 </head>
 
 <body>
@@ -59,20 +49,6 @@
                            <li><a href="#">Home</a></li>
                            <li><a href="about.php">About</a></li>
                            <li><a href="product.php">Product</a></li>
-                           <li class="has-dropdown has-mega-menu"><a href="#">Pages</a>
-                              <ul class="submenu text-start">
-                                 <li><a href="product.php">Product</a></li>
-                                 <li><a href="product-details.php">Product Details</a></li>
-                                 <li><a href="service-2.php">Service 02</a></li>
-                                 <li><a href="service-details.php">Service Details</a></li>
-                                 <li><a href="testimonial.php">Testimonial</a></li>
-                                 <li><a href="price.php">Price</a></li>
-                                 <li><a href="faq.php">Faq</a></li>
-                                 <li><a href="login.php">Login</a></li>
-                                 <li><a href="registration.php">Register</a></li>
-                                 <li><a href="404.php">404</a></li>
-                              </ul>
-                           </li>
                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                      </nav>
@@ -175,9 +151,8 @@
                   <div class="col-lg-12">
                      <div class="tp-creative-box text-center">
                         <div class="tp-creative-content mb-110">
-                           <h4 class="tp-creative-title">PT. Sri Intan Perkasa berdiri sejak tahun 1994, di Jakarta, Indonesia.
-                              Sebagai salah satu penyedia alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan
-                              dan kualitas produk terbaik kepada seluruh pelanggan.</h4>
+                           <h4 class="tp-creative-title">PT. Sri Intan Perkasa since 1994, in Jakarta, Indonesia.
+                              As one of the trusted providers of medical devices in providing service, comfort, convenience and the best product quality to all customers.</h4>
                         </div>
                         <div class="tp-play-button mb-120">
                            <a class="popup-video" href="https://www.youtube.com/watch?v=PO_fBTkoznc"><i class="fal fa-play"></i></a>
@@ -209,7 +184,7 @@
                               </div>
                               <div class="counter-text">
                                  <span>8049</span>
-                                 <p class="m-0">Produk Terjual</p>
+                                 <p class="m-0">Products Sold</p>
                               </div>
                            </div>
                         </div>
@@ -327,9 +302,9 @@
                            <img src="assets/img/service/kalibrasi.png" alt="">
                         </div>
                         <div class="tp-sv-content pl-60">
-                           <h3 class=" tp-sv-title2 mb-35"><a href="service-details.php">Kalibrasi</a></h3>
-                           <p class="mb-30 ratakanan">Kalibrasi adalah kegiatan peneraan untuk menentukan kebenaran nilai penunjukan alat ukur juga bahan ukur dan menjamin
-                              tersedianya alat kesehatan yang sesuai dengan standarisasi dan laik pakai di Fasilitas Kesehatan .</p>
+                           <h3 class=" tp-sv-title2 mb-35"><a href="service-details.php">Calibration</a></h3>
+                           <p class="mb-30 ratakanan">Calibration is an application activity to determine the correctness of the value of the designation of measuring instruments as well
+                              as measuring materials and ensure the availability of medical devices that are in accordance with standardization and are suitable for use in Health Facilities.</p>
                            <div class="tp-sv-link mt-35">
                               <a href="service-details.php"><i class="far fa-arrow-right"></i> Learn More</a>
                            </div>
@@ -344,8 +319,8 @@
                            <img src="assets/img/service/ukes.png" alt="">
                         </div>
                         <div class="tp-sv-content pl-60">
-                           <h3 class="tp-sv-title2 mb-35"><a href="service-details.php">Uji Kesesuaian</a></h3>
-                           <p class="mb-30 ratakanan">Uji Kesesuaian adalah kegiatan pengujian yang dilakukan untuk memastikan pesawat Sinar-X dalam kondisi yang andal.</p>
+                           <h3 class="tp-sv-title2 mb-35"><a href="service-details.php">Conformity Test</a></h3>
+                           <p class="mb-30 ratakanan">Conformity Test is a testing activity carried out to ensure an X-ray aircraft is in reliable condition.</p>
                            <div class="tp-sv-link mt-35">
                               <a href="service-3.php"><i class="far fa-arrow-right"></i> Learn More</a>
                            </div>
@@ -360,9 +335,9 @@
                            <img src="assets/img/service/teknisi.png" alt="">
                         </div>
                         <div class="tp-sv-content pl-60">
-                           <h3 class=" tp-sv-title2 mb-35"><a href="service-details.php">Teknisi</a></h3>
-                           <p class="mb-30 ratakanan">Mekanik atau teknisi adalah seseorang yang menguasai dan memahami bidang teknologi tertentu.
-                              Seorang mekanik merupakan orang pertama yang dihubungi saat terjadi kerusakan untuk dianalisa dan dilakukan perbaikan.</p>
+                           <h3 class=" tp-sv-title2 mb-35"><a href="service-details.php">Technic</a></h3>
+                           <p class="mb-30 ratakanan">A technician is someone who masters and understands a particular area of technology.
+                              A mechanic is the first person to be contacted when a breakdown occurs to be analyzed and repaired.</p>
                            <div class="tp-sv-link mt-35">
                               <a href="service-4.php"><i class="far fa-arrow-right"></i> Learn More</a>
                            </div>
@@ -375,7 +350,7 @@
       </div>
       <!-- service-area-end -->
 
-      <!-- project-area-start -->
+      <!-- project-area-start PLX EST Proslide-->
       <div class="tp-project-area p-relative pt-130 pb-100">
          <div class="tp-project-shape">
             <img src="assets/img/project/project-shape.png" alt="">
@@ -384,7 +359,7 @@
             <div class="row align-items-center mb-15">
                <div class="col-xl-5 col-lg-12 col-md-12">
                   <div class="tp-project-section-box">
-                     <h5 class="tp-subtitle">Produk</h5>
+                     <h5 class="tp-subtitle">Product</h5>
                      <h2 class="tp-title">Best Seller </h2>
                   </div>
                </div>
@@ -392,7 +367,7 @@
                   <div class="tp-service-tab-button">
                      <nav>
                         <div class="nav tp-service-tab justify-content-xl-end justify-content-lg-center" id="nav-tab" role="tablist">
-                           <button class="nav-links active mb-10" id="nav-branding-tab" data-bs-toggle="tab" data-bs-target="#branding" type="button" role="tab" aria-controls="branding" aria-selected="true">3 Produk
+                           <button class="nav-links active mb-10" id="nav-branding-tab" data-bs-toggle="tab" data-bs-target="#branding" type="button" role="tab" aria-controls="branding" aria-selected="true">best of 3
                            </button>
                         </div>
                      </nav>
@@ -405,86 +380,27 @@
                      <div class="row gx-1  ">
                         <div class="col-xl-6 col-lg-12">
                            <div class="tp-project-box mb-20">
-                              <div class="tp-project-img fix mb-45">
-                                 <img class="w-100" src="assets/img/project/brand-1.jpg" alt="">
+                              <div class="tp-project-img fix ">
+                                 <img class="w-100" src="assets/img/project/gm.jpg" alt="">
                               </div>
-                              <div class="tp-project-content ml-20">
-                                 <h2 class="pro-lg-title"><a href="portfolio-details.php">Proslide 32 SR</a></h2>
-                                 <p>At Collax we specialize in designing, building, shipping...</p>
-                                 <a class="tp-btn-sm" href="portfolio-details.php">View Case Studies <i class="far fa-arrow-right"></i></a>
-                              </div>
+                              
                            </div>
                         </div>
                         <div class="col-xl-6 col-lg-12">
                            <div class="row">
                               <div class=" col-xl-12 col-lg-12">
-                                 <div class="tp-project-box-sm d-flex align-items-center mb-20">
-                                    <div class="tp-project-sm-img fix ml-25 mr-35">
-                                       <img src="assets/img/project/brand-2.jpg" alt="">
-                                    </div>
-                                    <div class="tp-project-sm-content">
-                                       <h3 class="pro-sm-title"><a href="portfolio-details.php">EST EX 5000S</a></h3>
-                                       <p>At Collax we specialize in the most designing, building, shipping...</p>
-                                       <a class="tp-btn-white-sm" href="portfolio-details.php">Case Studies <i class="far fa-arrow-right"></i></a>
+                                 <div class="tp-project-box  mb-20">
+                                    <div class="tp-project-img fix text-center ">
+                                       <img src="assets/img/project/gm2.jpg" alt="" class="img-fluid">
                                     </div>
                                  </div>
                               </div>
                               <div class="col-xl-12 col-lg-12">
-                                 <div class="tp-project-box-sm d-flex align-items-center">
-                                    <div class="tp-project-sm-img fix ml-25 mr-35">
-                                       <img src="assets/img/project/brand-3.jpg" alt="">
+                                 <div class="tp-project-box  mb-20">
+                                    <div class="tp-project-img fix text-center ">
+                                       <img src="assets/img/project/gm2.jpg" alt="" class="img-fluid">
                                     </div>
-                                    <div class="tp-project-sm-content">
-                                       <h3 class="pro-sm-title"><a href="portfolio-details.php">PLX 101C</a></h3>
-                                       <p>At Collax we specialize in the most designing, building, shipping...</p>
-                                       <a class="tp-btn-white-sm" href="portfolio-details.php">Case Studies <i class="far fa-arrow-right"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tab-pane fade" id="app" role="tabpanel" aria-labelledby="nav-app-tab" tabindex="0">
-                  <div class="project-tab-main">
-                     <div class="row gx-1  ">
-                        <div class="col-xl-6 col-lg-12">
-                           <div class="tp-project-box mb-20">
-                              <div class="tp-project-img fix mb-45">
-                                 <img class="w-100" src="assets/img/project/app-1.jpg" alt="">
-                              </div>
-                              <div class="tp-project-content ml-20">
-                                 <h2 class="pro-lg-title"><a href="portfolio-details.php">Banking App Management</a></h2>
-                                 <p>At Collax we specialize in designing, building, shipping...</p>
-                                 <a class="tp-btn-sm" href="portfolio-details.php">View Case Studies <i class="far fa-arrow-right"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-12">
-                           <div class="row">
-                              <div class=" col-xl-12 col-lg-12">
-                                 <div class="tp-project-box-sm d-flex align-items-center mb-20">
-                                    <div class="tp-project-sm-img fix ml-25 mr-35">
-                                       <img src="assets/img/project/app-2.jpg" alt="">
-                                    </div>
-                                    <div class="tp-project-sm-content">
-                                       <h3 class="pro-sm-title"><a href="portfolio-details.php">Financial App Deisgn</a></h3>
-                                       <p>At Collax we specialize in the most designing, building, shipping...</p>
-                                       <a class="tp-btn-white-sm" href="portfolio-details.php">Case Studies <i class="far fa-arrow-right"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-xl-12 col-lg-12">
-                                 <div class="tp-project-box-sm d-flex align-items-center">
-                                    <div class="tp-project-sm-img fix ml-25 mr-35">
-                                       <img src="assets/img/project/app-3.jpg" alt="">
-                                    </div>
-                                    <div class="tp-project-sm-content">
-                                       <h3 class="pro-sm-title"><a href="portfolio-details.php">Yoga App Desgin</a></h3>
-                                       <p>At Collax we specialize in the most designing, building, shipping...</p>
-                                       <a class="tp-btn-white-sm" href="portfolio-details.php">Case Studies <i class="far fa-arrow-right"></i></a>
-                                    </div>
+                                   
                                  </div>
                               </div>
                            </div>
